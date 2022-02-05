@@ -8,5 +8,6 @@ Diego Rodríguez Pérez
 * [Modelo Entidad Relación](https://github.com/alu0101232812/proyectoBDD_ADBD/blob/main/Modelo%20Entidad%20Relacio%CC%81n.pdf)
 * [Modelo Lógico Relacional](https://github.com/alu0101232812/proyectoBDD_ADBD/blob/main/ModeloRelacional.pdf)
 * [Diagrama UML](https://github.com/alu0101232812/proyectoBDD_ADBD/blob/main/UML.pdf)
+* [Creación de la Base de Datos](https://github.com/alu0101232812/proyectoBDD_ADBD/blob/main/Creacion.pdf)
 * [Carga de Datos y Consultas](https://github.com/alu0101232812/proyectoBDD_ADBD/blob/main/CargasDatosyConsultasEjemplos.pdf)
 
