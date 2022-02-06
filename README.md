@@ -16,4 +16,5 @@
 * [Carga de Datos y Consultas](https://github.com/alu0101232812/proyectoBDD_ADBD/blob/main/CargasDatosyConsultasEjemplos.pdf)
 * [Video Inglés](https://drive.google.com/file/d/14iSrx9_ErYhewT_PVzI5F5cOJmw0YLet/view?usp=sharing)
 ### Scripts
+* [Creación de la Base de Datos](https://github.com/alu0101232812/proyectoBDD_ADBD/blob/main/CodigoABBDD.sql)
 * [Carga de Datos](https://github.com/alu0101232812/proyectoBDD_ADBD/blob/main/cargadatos.sql)
