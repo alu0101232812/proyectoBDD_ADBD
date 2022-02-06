@@ -18,3 +18,5 @@
 ### Scripts
 * [Creación de la Base de Datos](https://github.com/alu0101232812/proyectoBDD_ADBD/blob/main/CodigoABBDD.sql)
 * [Carga de Datos](https://github.com/alu0101232812/proyectoBDD_ADBD/blob/main/cargadatos.sql)
+* [Disparadores/Triggers](https://github.com/alu0101232812/proyectoBDD_ADBD/blob/main/Disparadores.sql)
+
